@@ -12,6 +12,10 @@ function divide (a,b) {
 }
 
 function increment(a) {
-  var number = (a++)
+  var number = a + 1
+  return number
+}
+function decrement(a) {
+  var number = a - 1
   return number
 }
