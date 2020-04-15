@@ -19,7 +19,11 @@ function decrement(a) {
   var number = a - 1
   return number
 }
-function makeInt(n) {
-  var number = parseInt(n, 10)
+function makeInt(string) {
+  var number = parseInt(string, 10)
+  return number
+}
+function preserveDecimal(string) {
+  var number = parseFloat(string)
   return number
 }
