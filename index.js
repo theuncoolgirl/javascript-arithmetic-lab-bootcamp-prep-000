@@ -11,8 +11,7 @@ function divide (a,b) {
   return (a / b)
 }
 
-var a = 1
-
 function increment(a) {
-  return (`a++`)
+  number = a + 1
+  return number
 }
