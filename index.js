@@ -10,7 +10,9 @@ function multiply(a,b) {
 function divide (a,b) {
   return (a / b)
 }
+
+var a = 1
+
 function increment(a) {
-  var a = 1
   return (a++)
 }
