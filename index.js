@@ -11,5 +11,6 @@ function divide (a,b) {
   return (a / b)
 }
 function increment(a) {
+  var a = 1
   return (a++)
 }
