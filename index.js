@@ -19,3 +19,7 @@ function decrement(a) {
   var number = a - 1
   return number
 }
+function makeInt(n) {
+  var number = parseInt(n)
+  return number
+}
