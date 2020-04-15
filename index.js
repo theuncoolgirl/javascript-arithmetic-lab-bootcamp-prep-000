@@ -12,6 +12,6 @@ function divide (a,b) {
 }
 
 function increment(a) {
-  var number = a + 1
+  var number = a++
   return number
 }
