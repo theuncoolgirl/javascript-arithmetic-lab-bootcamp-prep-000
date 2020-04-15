@@ -11,6 +11,6 @@ function divide (a,b) {
   return (a / b)
 }
 function increment() {
-  var n = 5
+  var n = 842
   return (n++)
 }
