@@ -11,5 +11,5 @@ function divide (a,b) {
   return (a / b)
 }
 function increment() {
-  return (884++)
+  return (n++)
 }
